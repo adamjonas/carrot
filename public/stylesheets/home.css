@@ -1,0 +1,12 @@
+body { 
+  background: url('/images/dumbo_view.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#splash-text {
+  color:#fff;
+  text-align:center;
+}
